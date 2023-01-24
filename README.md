@@ -30,4 +30,4 @@ I took some screnshot, see below
 
 Link to my Repository: https://github.com/OhiaJanny/Code-Quiz-Game
 
-Link to the deployed site:
+Link to the deployed site: https://ohiajanny.github.io/Code-Quiz-Game/
