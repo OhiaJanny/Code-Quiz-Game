@@ -28,6 +28,6 @@ I took some screnshot, see below
 ![Coding Quiz - Google Chrome 1_24_2023 1_21_08 PM](https://user-images.githubusercontent.com/92087695/214303241-92d3cb47-8c19-4845-b500-b7cd2e947750.png)
 ![Coding Quiz - Google Chrome 1_24_2023 1_21_14 PM](https://user-images.githubusercontent.com/92087695/214303322-9c5b23d8-750a-48ae-adcf-397824fab0e2.png)
 
-Link to my Repository: 
+Link to my Repository: https://github.com/OhiaJanny/Code-Quiz-Game
 
 Link to the deployed site:
