@@ -18,7 +18,7 @@ I created a code quiz that contains the following requirements:
   * When the game ends, it displays your score and gives the user the ability to save their initials and their score
   
 
-I took some screnshot, see below
+I took some screnshot, see below.
 
 
 
