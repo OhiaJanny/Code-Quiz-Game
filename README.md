@@ -19,10 +19,9 @@ I created a code quiz that contains the following requirements:
   
 
 I took some screnshot, see below.
+![Highscores - Google Chrome 3_4_2023 9_26_44 AM (2)](https://user-images.githubusercontent.com/92087695/222885843-95982bc3-6822-4aca-a8c3-c5ac960863dc.png)
+![Coding Quiz - Google Chrome 3_4_2023 9_29_13 AM (2)](https://user-images.githubusercontent.com/92087695/222885854-02deeeaa-beb6-4734-92c5-28e2552e313a.png)
 
-![Coding Quiz - Google Chrome 3_4_2023 9_29_13 AM](https://user-images.githubusercontent.com/92087695/222885755-2289df13-4769-4f1e-b0ea-50342f0ce3f9.png)
-
-![Highscores - Google Chrome 3_4_2023 9_26_44 AM](https://user-images.githubusercontent.com/92087695/222885779-6b2916b3-23fc-4882-9917-9004145db6f2.png)
 
 Link to my Repository: https://github.com/OhiaJanny/Code-Quiz-Game
 
